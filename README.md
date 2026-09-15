@@ -16,4 +16,3 @@ Aplikasi pengelola daftar tugas (*To-Do List*) berbasis web yang interaktif, dir
 ## 💻 Cara Menjalankan
 1. *Clone* atau unduh (*download*) repositori ini.
 2. Buka file `index.html` menggunakan *browser* favorit kamu (Chrome, Edge, Firefox, dll.).
-3. 
